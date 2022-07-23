@@ -1,0 +1,1 @@
+Uses data from the [Titanic Competition on Kaggle](https://www.kaggle.com/competitions/titanic) The data has data on people aboard the titanic if they survived or not and information about them, you are given a train file and a test file , the test file doesn't tell you if they survived or not and you are supposed to train the model to guess if they did or didn't
